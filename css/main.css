@@ -223,7 +223,7 @@ linear-gradient(-45deg, transparent 15px, #58a 0);
   }
   }
 
-  @media screen and (max-width: 820px){
+  /*@media screen and (max-width: 820px){
 
     header {
         height: auto;
@@ -238,4 +238,4 @@ linear-gradient(-45deg, transparent 15px, #58a 0);
         text-align: center;
     }
 
-}
+}*/
